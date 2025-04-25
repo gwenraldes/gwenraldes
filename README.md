@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gwenraldes
 - 👀 I’m interested in Games, Movies, Books and Animes
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL
-- 😄 Pronouns: she/her he/him
+- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm Grandmaster in League of Legends - BR Server
 
 <!---
